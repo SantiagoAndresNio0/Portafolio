@@ -1,4 +1,4 @@
-<img width="1494" height="615" alt="image" src="https://github.com/user-attachments/assets/f52cd83f-04da-4b07-b153-43de224b1689" /># Portafolio
+# Portafolio
 
 # Sobre mi
 
