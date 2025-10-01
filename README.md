@@ -2,8 +2,7 @@
 
 # Sobre mi
 
-Estudiante de noveno semestre de la Universidad de investigación y Desarrollo UDI
-Barrancabermeja, me considero una persona proactiva, apasionado por la tecnología y con
+Estudiante de noveno semestre de ingenieria de sistemas, me considero una persona proactiva, apasionado por la tecnología y con
 disposición para el aprendizaje y acoplarme a los procesos.
 
 # lenguajes 
@@ -11,3 +10,4 @@ disposición para el aprendizaje y acoplarme a los procesos.
 - Java
 - JavaScript
 - PHP
+- MySQL
