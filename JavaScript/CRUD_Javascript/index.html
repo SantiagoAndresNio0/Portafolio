@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./index.css">
+    <title>CRUD Javascript</title>
+  </head>
+
+  <body>
+    <div class="w3-container w3-blue">
+      <h1><a style="text-decoration: none;">Desarrollo CRUD Javascript</b></a></h1>      
+    </div>
+  <form onsubmit="event.preventDefault()">
+    <input id="fname" name="fname" placeholder="Nombre" />
+    <input id="lname" name="lname" placeholder="Apellido" />
+    <button onclick="clearForm()">Limpiar Formulario</button>
+    <br /><br />
+
+    <button onclick="create()">Crear</button>
+    <button onclick="update()">Actualizar</button>
+    <button onclick="deleteItem()">Eliminar</button>
+    <br /><br />
+    <select id="panel" size="20" onclick="panelClick()"> </select>
+  </form>
+
+    <script src="index.js">
+    </script>
+
+  </body>
+</html>
