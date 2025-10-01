@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Conversiones</title>
+</head>
+<body>
+    <h1>Calculadora de Conversiones</h1>
+    <label for="numero">Número:</label>
+    <input type="text" id="numero">
+    <br>
+    <label for="base-entrada">Base de Entrada:</label>
+    <select id="base-entrada">
+        <option value="binario">Binario</option>
+        <option value="octal">Octal</option>
+        <option value="decimal" selected>Decimal</option>
+        <option value="hexadecimal">Hexadecimal</option>
+    </select>
+    <br>
+    <label for="base-salida">Base de Salida:</label>
+    <select id="base-salida">
+        <option value="binario">Binario</option>
+        <option value="octal">Octal</option>
+        <option value="decimal" selected>Decimal</option>
+        <option value="hexadecimal">Hexadecimal</option>
+    </select>
+    <br>
+    <button onclick="convertir()">Convertir</button>
+    <br>
+    <p id="resultado"></p>
+    
+    <script src="calculadora_conversiones.js"></script>
+</body>
+</html>
