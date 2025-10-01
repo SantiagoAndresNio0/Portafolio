@@ -7,4 +7,4 @@ Barrancabermeja, me considero una persona proactiva, apasionado por la tecnolog√
 disposici√≥n para el aprendizaje y acoplarme a los procesos.
 
 # lenguajes que eh manejado
-#Python
+-Python
