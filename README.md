@@ -10,8 +10,8 @@ disposición para el aprendizaje y acoplarme a los procesos.
 - Java
 - JavaScript
 - PHP  
-#Motores de bases de datos
+# Motores de bases de datos
 - MySQL  
-#Hardware
+# Hardware
 - Arduino 1
 - ESP 32
