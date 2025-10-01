@@ -9,9 +9,9 @@ disposición para el aprendizaje y acoplarme a los procesos.
 - Python
 - Java
 - JavaScript
-- PHP
+- PHP  
 #Motores de bases de datos
-- MySQL
+- MySQL  
 #Hardware
 - Arduino 1
 - ESP 32
