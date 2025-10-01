@@ -1,0 +1,3 @@
+ingreso_eliminacion_listaObjetos.lista
+ingreso_eliminacion_listaObjetos.prueba1
+ingreso_eliminacion_listaObjetos.nodo
